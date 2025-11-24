@@ -59,7 +59,7 @@ Trabalhar com elementos visuais e design utilizando CSS3, explorando sistemas de
 - [X] **6.3** Garantir que o CSS seja bem organizado e comentado
 - [X] **6.4** Testar a página em diferentes navegadores
 - [X] **6.5** Fazer commit e push das alterações
-- [ ] **6.6** Verificar se o resultado está visível no GitHub
+- [X] **6.6** Verificar se o resultado está visível no GitHub
 
 ## 📚 Recursos Úteis
 
